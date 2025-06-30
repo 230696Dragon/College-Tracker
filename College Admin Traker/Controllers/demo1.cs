@@ -2,5 +2,6 @@
 {
     public class demo1
     {
+        public int a = 1;
     }
 }
